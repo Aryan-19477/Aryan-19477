@@ -108,10 +108,10 @@ https://github.com/Aryan-19477/Credit-Card-Fraud-Detection
 # 🤝 Connect With Me
 
 💼 LinkedIn  
-YOUR_LINKEDIN_URL
+https://www.linkedin.com/in/aryan-agrawal-139940318/
 
 📧 Email  
-YOUR_EMAIL
+aryanagr1901@gmail.com
 
 ---
 
