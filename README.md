@@ -92,13 +92,6 @@ Microsoft Azure • Azure Data Factory • Azure Databricks • Azure SQL • Az
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-19477&theme=tokyo-night&hide_border=true"/>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Aryan-19477/Aryan-19477/blob/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 ---
 
@@ -143,16 +136,6 @@ Modern Azure Data Engineering pipeline for Formula-1 analytics.
 
 █████████░░░░░ FastAPI
 ```
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aryan-19477&theme=tokyonight&margin-w=15&no-frame=true"/>
-
-</div>
 
 ---
 
