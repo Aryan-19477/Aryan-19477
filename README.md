@@ -138,16 +138,6 @@ I enjoy building end-to-end AI solutions that combine intelligent models, modern
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-19477&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 📂 Featured Projects
 
 ## 🧠 Facial Emotion Recognition
